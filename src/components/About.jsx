@@ -140,7 +140,7 @@ export default function AboutUs() {
         </div>
 
         {/* Founders */}
-        <div className="bg-white px-6 py-16 rounded-xl shadow-md mb-24">
+        {/* <div className="bg-white px-6 py-16 rounded-xl shadow-md mb-24">
           <div className="max-w-5xl mx-auto">
             <h3 className="text-2xl font-semibold text-center text-gray-900 mb-12">
               The Visionaries Behind Grand Vista
@@ -171,7 +171,7 @@ export default function AboutUs() {
               ))}
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Our Journey */}
         <div className="mb-24">
